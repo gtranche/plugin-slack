@@ -2,8 +2,7 @@ Ce plugin permet d’établir une connexion entre Slack et Jeedom pour
 envoyer des alertes à partir de Jeedom ou discuter avec Jeedom (en
 utilisant les interactions).
 
-Configuration du plugin 
-=======================
+== Plugin configuration
 
 Après téléchargement du plugin, il vous faut l’activer, celui-ci ne
 nécessite aucune autre configuration.
@@ -33,7 +32,7 @@ Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![slack4](../images/slack4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+You can find here the full configuration of your device :
 
 -   **Nom de l’équipement** : nom de votre équipement Slack
 

@@ -23,17 +23,17 @@ Voilà à quoi ressemble la page du plugin Slack (ici avec déjà 1
 
 ![slack3](../images/slack3.PNG)
 
-> **Tip**
+> **Sugerencia**
 >
-> Comme à beaucoup d’endroits sur Jeedom, mettre la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez à
-> partir de votre profil le laisser toujours visible).
+> Como en muchos lugares en Jeedom, coloque el mouse hacia la izquierda
+> permite abrir un menú de acceso rápido (puede
+>dejarlo siempre visible desde su perfil).
 
 Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![slack4](../images/slack4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+Aquí encontrará toda la configuración de su dispositivo:
 
 -   **Nom de l’équipement** : nom de votre équipement Slack
 
